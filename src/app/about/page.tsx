@@ -24,7 +24,15 @@ export default function About() {
       {/* Bio Section */}
       <motion.section className="mb-16" {...fadeInUp}>
         <p className="text-justify text-lg text-secondary max-w-3xl mx-auto text-center px-4 md:px-0">
-          I'am an undergraduate student majoring in Informatics Engineering at Universitas Kuningan, currently in my third semester. Throughout my academic journey, I have explored web development using HTML and CSS to structure and style user interfaces, and I’ve gained programming experience with Java, C++, and Python. I have a strong interest in technology — from programming logic to interface design — and I’m continuously learning to deepen my skills. I’m passionate about building meaningful digital solutions and open to collaborating on innovative and impactful projects.
+          I&apos;m an undergraduate student majoring in Informatics
+          Engineering at Universitas Kuningan, currently in my third semester.
+          Throughout my academic journey, I have explored web development using
+          HTML and CSS to structure and style user interfaces, and I’ve gained
+          programming experience with Java, C++, and Python. I have a strong
+          interest in technology — from programming logic to interface design —
+          and I’m continuously learning to deepen my skills. I’m passionate
+          about building meaningful digital solutions and open to collaborating
+          on innovative and impactful projects.
         </p>
       </motion.section>
 
